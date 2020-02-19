@@ -1,0 +1,71 @@
+[33mcommit db990e2405c7cce15824c85343f825ab02f887d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: stable[m[33m)[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:37:57 2020 +0300
+
+    tagged commit
+
+[33mcommit 7189193a90a46095bd15a484325e021eef18ef1d[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:24:49 2020 +0300
+
+    :wq
+
+[33mcommit 3c3081f9025a0b8eee21be344072c4c357f47b7d[m
+Merge: e389964 efae021
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:21:50 2020 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit e389964f624394a4ecfecb2f4fbd4f0569675c4c[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:16:51 2020 +0300
+
+    add arrows master
+
+[33mcommit efae02159417505c6b79edb75b896f3ebc078fb8[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:15:39 2020 +0300
+
+    add arrows
+
+[33mcommit b1e4e5152c13e1187766c426a5fc943d851136a7[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:11:03 2020 +0300
+
+    detele one more
+
+[33mcommit 3adf634db0d01181aee1b63f026c3aca27a87fe4[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:10:39 2020 +0300
+
+    detele one
+
+[33mcommit 936b44e496f6993f12cd2e9c006223f060ba0e19[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 12:06:18 2020 +0300
+
+    :wq
+
+[33mcommit e386b3ee5dd9e2610ce024c2c54a62a925556377[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: egorih91 <44088907+egorih91@users.noreply.github.com>
+Date:   Wed Feb 19 11:55:30 2020 +0300
+
+    Update song.txt
+    
+    commit on web
+
+[33mcommit 38b6b18d0dc857b75c53cd31c197cbd5e186c5d5[m
+Author: Yahor_Kazadoi <Yahor_Kazadoi@EPAM.com>
+Date:   Wed Feb 19 11:53:44 2020 +0300
+
+    first couplet
+
+[33mcommit f703baedcc330e4dfb26c3f6906752d08b810361[m
+Author: egorih91 <44088907+egorih91@users.noreply.github.com>
+Date:   Wed Feb 19 11:25:35 2020 +0300
+
+    Initial commit
